@@ -1,24 +1,9 @@
 {
-  "name": "json-schema-uri-component",
+  "name": "ericgj-json-schema-uri",
+  "description": "URI data structure for JSON Schema",
   "version": "0.0.5",
-  "description": "URI parsing for JSON Schema",
+  "keywords": [],
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "mocha --ui bdd test/tests.js"
-  },
-  "dependencies": {
-  },
-  "devDependencies": {
-    "mocha": "*"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ericgj/json-schema-uri.git"
-  },
-  "author": "Eric Gjertsen",
+  "dependencies": {},
   "license": "MIT"
 }
-
